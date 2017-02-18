@@ -18,3 +18,11 @@ Sutherland-Hodgman polygon clipping
 </a>, collison detection, 3D lighting, and simple texturing. Included are
 batch and bash scripts to compile and run on Windows and Linux respectivly.
 
+---
+
+| |
+|:-:|:-:| 
+| <img src="./screenshots/HW1_zfergus2.png"> | <img src="./screenshots/HW2_zfergus2.png"> |
+| <img src="./screenshots/HW3_zfergus2.png"> | <img src="./screenshots/HW4_zfergus2.png"> |
+| <img src="./screenshots/HW5_zfergus2.png"> | <img src="./screenshots/HW6_zfergus2.png"> |
+
