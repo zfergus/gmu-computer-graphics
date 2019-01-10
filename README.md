@@ -1,7 +1,8 @@
 # Graphics in Java using JOGL
-#### Created by Zachary Ferguson
 
-<center><img src = "screenshots/cropped/HW5_zfergus2.png" width="60%"></center>
+<p align="center">
+  <img src = "screenshots/cropped/HW5_zfergus2.png" width="50%">
+</p>
 
 **Computer graphics in Java using JOGL**
 
